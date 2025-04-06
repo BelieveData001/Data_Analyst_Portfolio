@@ -8,7 +8,7 @@ I'm a passionate junior data analyst with hands-on experience in Excel, SQL, Pyt
 ## 🧰 Tools & Technologies
 
 - **Excel / Power Query** – Data cleaning, pivot analysis, automation
-- **SQL (MySQL)** – Data extraction, joins, aggregations
+- **SQL (Microsoft SQL)** – Data extraction, joins, aggregations
 - **Tableau / Power BI** – Interactive dashboards & data storytelling
 - **Python (Pandas, Matplotlib)** – Data wrangling & basic visualization
 
