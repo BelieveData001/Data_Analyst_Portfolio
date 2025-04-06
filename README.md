@@ -20,7 +20,7 @@ I'm a passionate junior data analyst with hands-on experience in Excel, SQL, Pyt
 **Goal:** Identify the most affordable boroughs in London for first-time homebuyers  
 **Tools:** Excel, UK Gov House Price Index  
 **Highlights:** PivotTables, trend analysis, property type comparison  
-🔗 [View Project Folder]https://github.com/BelieveData001/London_Housing_Analysis
+🔗 View Project Folder https://github.com/BelieveData001/London_Housing_Analysis
 
 ---
 
