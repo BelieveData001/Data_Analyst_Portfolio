@@ -26,9 +26,9 @@ I'm a passionate junior data analyst with hands-on experience in Excel, SQL, Pyt
 
 ### 2. 👥 HR Analytics
 **Goal:** Analyze attrition and employee performance  
-**Tools:** Excel, Power BI  
-**Highlights:** Turnover trends, tenure analysis, actionable insights  
-🔗 [View Dashboard](#)
+**Tools:** Excel, Power BI, Power Query, DAX  
+**Highlights:** Turnover trends, tenure analysis, actionable insights and Recommendation
+🔗 View Project Folder
 
 ---
 
