@@ -9,7 +9,7 @@ I'm a passionate junior data analyst with hands-on experience in Excel, SQL, Pyt
 
 - **Excel / Power Query** – Data cleaning, pivot analysis, automation
 - **SQL (Microsoft SQL)** – Data extraction, joins, aggregations
-- **Tableau / Power BI** – Interactive dashboards & data storytelling
+- **Tableau / Power BI** – DAX, Interactive dashboards & data storytelling
 - **Python (Pandas, Matplotlib)** – Data wrangling & basic visualization
 
 ---
@@ -28,13 +28,13 @@ I'm a passionate junior data analyst with hands-on experience in Excel, SQL, Pyt
 **Goal:** Analyze attrition and employee performance  
 **Tools:** Excel, Power BI, Power Query, DAX  
 **Highlights:** Turnover trends, tenure analysis, actionable insights and Recommendation
-🔗 View Project Folder
+🔗 View Project Folder https://github.com/BelieveData001/HR_Analytics
 
 ---
 
 ### 3. 🔁 Customer Churn Analysis
 **Goal:** Predict which customers are likely to churn  
-**Tools:** Python (Pandas, Matplotlib), Excel  
+**Tools:** Python (Pandas, Matplotlib, Seaborn), Excel  
 **Highlights:** Exploratory data analysis, visualization, retention strategies  
 🔗 [View Notebook](#)
 
