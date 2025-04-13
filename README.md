@@ -36,7 +36,7 @@ I'm a passionate junior data analyst with hands-on experience in Excel, SQL, Pyt
 **Goal:** Predict which customers are likely to churn  
 **Tools:** Python (Pandas, Matplotlib, Seaborn), Excel  
 **Highlights:** Exploratory data analysis, Modeling, visualization and retention strategies  
-🔗 [View Notebook](#)
+🔗 View Project Folder 
 
 ---
 
