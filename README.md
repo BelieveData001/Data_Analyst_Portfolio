@@ -1,7 +1,7 @@
 # 📊 Data Analyst Portfolio – Ejenavi Believe Okotie
 
 Welcome to my Data Analyst portfolio! 👋  
-I'm a passionate junior data analyst with hands-on experience in Excel, SQL, Python, Tableau, and Power BI. This portfolio showcases real-world projects where I turned raw data into actionable insights.
+I'm a passionate data analyst with hands-on experience in Excel, SQL, Python, Tableau, and Power BI. This portfolio showcases real-world projects where I turned raw data into actionable insights.
 
 ---
 
@@ -34,7 +34,7 @@ I'm a passionate junior data analyst with hands-on experience in Excel, SQL, Pyt
 
 ### 3. 🔁 Customer Churn Analysis
 **Goal:** Predict which customers are likely to churn  
-**Tools:** Python (Pandas, Matplotlib, Seaborn), Excel  
+**Tools:** Python (Pandas, Matplotlib, Seaborn), Excel, Tableau  
 **Highlights:** Exploratory data analysis, Modeling, visualization and retention strategies  
 🔗 View Project Folder https://github.com/BelieveData001/Customer_Churn_Analysis
 
