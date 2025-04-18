@@ -20,7 +20,7 @@ I'm a passionate data analyst with hands-on experience in Excel, SQL, Python, Ta
 **Goal:** Identify the most affordable boroughs in London for first-time homebuyers  
 **Tools:** Excel, UK Gov House Price Index  
 **Highlights:** PivotTables, trend analysis, property type comparison  
-🔗 View Project Folder https://github.com/BelieveData001/London_Housing_Analysis
+🔗 [View Project Folder](https://github.com/BelieveData001/London_Housing_Analysis)
 
 ---
 
@@ -28,7 +28,7 @@ I'm a passionate data analyst with hands-on experience in Excel, SQL, Python, Ta
 **Goal:** Analyze attrition and employee performance  
 **Tools:** Excel, Power BI, Power Query, DAX  
 **Highlights:** Tenure analysis, actionable insights and Recommendation
-🔗 View Project Folder https://github.com/BelieveData001/HR_Analytics
+🔗 [View Project Folder](https://github.com/BelieveData001/HR_Analytics)
 
 ---
 
@@ -36,7 +36,7 @@ I'm a passionate data analyst with hands-on experience in Excel, SQL, Python, Ta
 **Goal:** Predict which customers are likely to churn  
 **Tools:** Python (Pandas, Matplotlib, Seaborn), Excel, Tableau  
 **Highlights:** Exploratory data analysis, Modeling, visualization and retention strategies  
-🔗 View Project Folder https://github.com/BelieveData001/Customer_Churn_Analysis
+🔗[View Project Folder](https://github.com/BelieveData001/Customer_Churn_Analysis)
 
 ---
 
@@ -44,7 +44,7 @@ I'm a passionate data analyst with hands-on experience in Excel, SQL, Python, Ta
 **Goal:** Track and visualize regional sales KPIs  
 **Tools:** Tableau  
 **Highlights:** Filters, KPIs, time-based insights  
-🔗 [View Tableau Public](#)
+🔗 [View Project Folder](https://github.com/BelieveData001/Sales_analysis_project)
 
 ---
 
