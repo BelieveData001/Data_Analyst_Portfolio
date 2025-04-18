@@ -53,6 +53,6 @@ I'm a passionate data analyst with hands-on experience in Excel, SQL, Python, Ta
 I'm currently seeking data analyst opportunities and love working on real-world data challenges.
 
 - 📧 Email: okotiebelieve19@yahoo.com
-- 💼 LinkedIn: Ejenavi Believe Okotie ( linkedin.com/in/ejenavi-believe-okotie-63758333b )    
+- 💼 LinkedIn: [Ejenavi Believe Okotie]( linkedin.com/in/ejenavi-believe-okotie-63758333b )    
 
 Thanks for visiting!
