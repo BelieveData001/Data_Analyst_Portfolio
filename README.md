@@ -40,17 +40,17 @@ I'm a passionate data analyst with hands-on experience in Excel, SQL, Python, Ta
 
 ---
 
-### 4. 💰 Sales Performance Dashboard
-**Goal:** Track and visualize regional sales KPIs  
-**Tools:** Tableau  
-**Highlights:** Filters, KPIs, time-based insights  
+### 4. 💰 Sales Performance Insight
+**Goal:** To uncover insights into revenue, profit, customer behavior, and product performance.  
+**Tools:** Microsoft SQL Server  
+**Highlights:** Data cleaning, exploratory data analysis, time-based insights and KPIs.  
 🔗 [View Project Folder](https://github.com/BelieveData001/Sales_analysis_project)
 
 ---
 
 ## 📬 Get in Touch
 
-I'm currently seeking junior data analyst opportunities and love working on real-world data challenges.
+I'm currently seeking data analyst opportunities and love working on real-world data challenges.
 
 - 📧 Email: okotiebelieve19@yahoo.com
 - 💼 LinkedIn: Ejenavi Believe Okotie ( linkedin.com/in/ejenavi-believe-okotie-63758333b )    
