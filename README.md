@@ -1,7 +1,9 @@
 # 📊 Data Analyst Portfolio – Ejenavi Believe Okotie
 
 Welcome to my Data Analyst portfolio! 👋  
-I'm a passionate data analyst with hands-on experience in Excel, SQL, Python, Tableau, and Power BI. This portfolio showcases real-world projects where I turned raw data into actionable insights.
+I’m a data analyst skilled in SQL, Excel, Power BI, and Python, with experience turning raw data into clear, actionable insights. My projects span sales analysis, HR analytics, and operational reporting solving real problems with data storytelling and automation.
+
+On this GitHub, you’ll find end-to-end projects featuring data cleaning, analysis, and dynamic dashboards. I’m open to analyst roles where I can add value and keep growing.
 
 ---
 
